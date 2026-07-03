@@ -1,4 +1,4 @@
-# MRI-annotation-software
+<img width="1302" height="830" alt="image" src="https://github.com/user-attachments/assets/a72b04e0-a8df-40fd-9b38-1250011afa80" /># MRI-annotation-software
 MRI annotation software in DICOM format.
 
 File name: MRI_Dicom_Annotator.zip
@@ -17,4 +17,6 @@ Drag and drop a folder onto an empty area to open a set of MRI images. You can a
 
 Then we get:
 
-![Uploading image.png…]()
+<img width="1302" height="830" alt="image" src="https://github.com/user-attachments/assets/43bd8f58-a541-49d9-9920-6e654b7adae4" />
+
+Need English version, contact me!
