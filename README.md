@@ -19,4 +19,11 @@ Then we get:
 
 <img width="1302" height="830" alt="image" src="https://github.com/user-attachments/assets/43bd8f58-a541-49d9-9920-6e654b7adae4" />
 
+Annotate anywhere you need. Click on the open MRI image to set the starting point (top-left corner) of the bounding box, then drag the mouse and click again to select the ending point of the bounding box. This will create the bounding box. The COCO-format annotation file is saved automatically. You can add categories as needed; the default category is “fracture.”
+
+Example：
+
+<img width="1297" height="828" alt="image" src="https://github.com/user-attachments/assets/e172c4f1-f604-474c-ae2e-ced1a85873ee" />
+
+
 Need English version, contact me!
