@@ -1,4 +1,4 @@
-<img width="1302" height="830" alt="image" src="https://github.com/user-attachments/assets/a72b04e0-a8df-40fd-9b38-1250011afa80" /># MRI-annotation-software
+# MRI-annotation-software
 MRI annotation software in DICOM format.
 
 File name: MRI_Dicom_Annotator.zip
